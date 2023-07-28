@@ -1,0 +1,60 @@
+.body{
+    color: #121212;
+
+}
+.heading h1{
+    width: 330px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 380px;
+    border-width: 3px;
+    border-color: #121212;
+
+}
+.content-body1{
+    display: block;
+    width: 380px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: justify;
+
+
+}
+.email-input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    border: 3px solid;
+    border-color: #121212;
+    padding-left: 18px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 18px;
+    text-align: center;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+button{
+    background: #121212;
+    color: whitesmoke;
+    width: 210px;
+}
+
+.content-body2{
+    display: block;
+    width: 380px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+
+
+}
+
